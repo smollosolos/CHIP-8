@@ -18,7 +18,8 @@ More information : https://en.wikipedia.org/wiki/CHIP-8
 
 ## Usage
 The interpreter was made with C17 and SDL3 3.2
-run from command-line:
+
+To run from command-line:
 ```
 make (or whatever command you need to run) file="YOURROMDIRECTORY"
 ```
