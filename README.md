@@ -44,3 +44,10 @@ This is my first emulator/interperter, it was used for learning emulation.  One 
 - [CHIP-8 Test Suite](https://github.com/Timendus/chip8-test-suite) by Timendus - Used to verify the correctness of the emulator's implementation.
 - [CHIP-8 ROMS](https://github.com/kripod/chip8-roms/tree/c723a9ed1205a215c5b1e45e994eb54acc243c9e) by Kripod - A collection of CHIP-8 / SuperChip / MegaChip8 programs.
 - [Octo ROMS](https://johnearnest.github.io/chip8Archive/) by John Earnest - A archive of CHIP-8 programs made for octojams.
+
+
+Demo:
+
+![Demo-ezgif com-crop](https://github.com/user-attachments/assets/4a210cff-fd89-416c-a617-c19b20977b65)
+
+Thanks for reading! Have fun learning, gaming or coding!
